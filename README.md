@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is **Beez Geez**  
+A developer and a designer.   
+
+Good to know u! 😄
 <!--
 **beezgeezz/beezgeezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
